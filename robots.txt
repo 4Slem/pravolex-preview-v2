@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /pravolex-preview/
+Disallow: /pravolex-preview-v2/
